@@ -1,1 +1,26 @@
-
+# 规则名称:Google
+# 规则统计:24
+DOMAIN-SUFFIX,1e100.net,🤫Goo
+DOMAIN-SUFFIX,2mdn.net,🤫Goo
+DOMAIN-SUFFIX,app-measurement.net,🤫Goo
+DOMAIN-SUFFIX,g.co,🤫Goo
+DOMAIN-SUFFIX,ggpht.com,🤫Goo
+DOMAIN-SUFFIX,goo.gl,🤫Goo
+DOMAIN-SUFFIX,googleapis.cn,🤫Goo
+DOMAIN-SUFFIX,googleapis.com,🤫Goo
+DOMAIN-SUFFIX,gstatic.cn,🤫Goo
+DOMAIN-SUFFIX,gstatic.com,🤫Goo
+DOMAIN-SUFFIX,gvt0.com,🤫Goo
+DOMAIN-SUFFIX,gvt1.com,🤫Goo
+DOMAIN-SUFFIX,gvt2.com,🤫Goo
+DOMAIN-SUFFIX,gvt3.com,🤫Goo
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🤫Goo
+DOMAIN-SUFFIX,youtu.be,🤫Goo
+DOMAIN-SUFFIX,youtube-nocookie.com,🤫Goo
+DOMAIN-SUFFIX,youtube.com,🤫Goo
+DOMAIN-SUFFIX,yt.be,🤫Goo
+DOMAIN-SUFFIX,ytimg.com,🤫Goo
+DOMAIN-KEYWORD,gmail,🤫Goo
+DOMAIN-KEYWORD,google,🤫Goo
+IP-CIDR,173.194.0.0/16,🤫Goo
+IP-CIDR,74.125.0.0/16,🤫Goo
