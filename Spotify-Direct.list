@@ -1,2 +1,5 @@
+＃ Name: Spotify-Direct
+＃ Rules: 2
+
 DOMAIN-KEYWORD,podcast,DIRECT
 DOMAIN-KEYWORD,spotify,DIRECT
